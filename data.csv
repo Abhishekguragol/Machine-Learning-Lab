@@ -1,0 +1,5 @@
+weather,temp,wind speed,forecast,moisture,play
+sunny,warm,strong,same,dry,yes
+sunny,warm,strong,same,humid,yes
+rainy,cold,strong,change,humid,no
+sunny,warm,strong,change,humid,yes

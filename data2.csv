@@ -1,0 +1,5 @@
+sky,temp,hum,wind,water,fore,enjoy
+sunny,warm,normal,strong,warm,same,p
+sunny,warm,high,strong,warm,same,p
+rainy,cold,high,strong,warm,change,n
+sunny,warm,high,strong,cool,change,p
